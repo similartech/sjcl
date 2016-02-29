@@ -32,3 +32,8 @@ Upgrade Guide
 Documentation
 ====
 The documentation is available [here](http://bitwiseshiftleft.github.io/sjcl/doc/)
+
+How to build (Yaniv)
+====
+./configure --with-all
+make all
